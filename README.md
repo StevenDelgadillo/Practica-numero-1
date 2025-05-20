@@ -1,0 +1,3 @@
+El software generico se desarrolla sin tener en cuenta especificaciones particulares de un cliente, enfocándose en resolver problemas de manera amplia y adaptable, 
+mientras que el software personalizado está diseñado específicamente para satisfacer las necesidades y requisitos de un cliente en particular, 
+cumpliendo con sus especificaciones exactas y buscando soluciones a la medida.
